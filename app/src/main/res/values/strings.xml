@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MusicUp</string>
+    <string name="view_library">View Library</string>
+    <string name="thumbnail_album">thumbnail_album</string>
+    <string name="song_title">Jagana He Nyara Jhala Ji</string>
+    <string name="song_artist">Amit Raj, Madhura Kumbhar</string>
+    <string name="navigation_pane">navigation_pane</string>
+    <string name="song_art">song_art</string>
 </resources>

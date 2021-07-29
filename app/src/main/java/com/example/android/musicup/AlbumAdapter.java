@@ -1,6 +1,6 @@
 package com.example.android.musicup;
 
-import android.app.Activity;;
+import android.app.Activity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

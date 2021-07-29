@@ -6,7 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
@@ -29,7 +28,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void viewLibraryTapAction() {
         Intent intent = new Intent(getApplicationContext(), LibraryActivity.class);
         startActivity(intent);
-        Toast.makeText(this,"Opened Library Activity",Toast.LENGTH_LONG).show();
 
     }
 }
