@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity
+            android:parentActivityName=".MainActivity"
             android:name="com.example.android.musicup.LibraryActivity"
             android:label="Library" />
     </application>

@@ -16,6 +16,7 @@ public class LibraryActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.album_list);
 
+
         ArrayList<Album> albums = new ArrayList<>();
         albums.add(new Album("Tu Hi Re","Hariharan", R.drawable.ic_audiotrack_light));
         albums.add(new Album("Yaad Laagla","Ajay Atul", R.drawable.ic_audiotrack_light));
